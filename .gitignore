@@ -1,0 +1,12 @@
+# executable
+SML_Laser
+
+out_TS
+out_TS_space_time.png
+
+bin/
+powerSpec/
+TS/
+
+.DS_Store
+.directory
